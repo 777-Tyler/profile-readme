@@ -10,7 +10,7 @@ A little bit about me, is that I work in IT as a level two end point support. I 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle](https://github.com/777-Tyler))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/777-Tyler))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
 "'Look at the birds of the air; they neither sow [seed] nor reap [the harvest] nor gather [the crops] into barns, and yet your heavenly Father keeps feeding them. Are you not worth much more than they? And who of you by worrying can add one hour to [the length of] his life? [Ps 39:5-7] '
