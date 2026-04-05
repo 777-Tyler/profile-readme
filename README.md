@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Tyler*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+A little bit about me, is that I work in IT as a level two end point support. I had two interviews for system admin roles and my major is a Bachelors of Bussiness Administration in Cybersecurity with a minor in Data Forensics.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
